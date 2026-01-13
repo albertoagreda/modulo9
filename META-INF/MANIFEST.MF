@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.5
+Built-By: Usuario1
+Build-Jdk: 25
+Main-Class: com.modulo9.App
+

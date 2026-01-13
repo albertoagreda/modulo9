@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# JavaFX / distribución
+dist/
+runtime/
+
+# Instaladores
+installer/*.exe
+
+# IDE
+.idea/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
