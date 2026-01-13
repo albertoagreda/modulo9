@@ -1,52 +1,20 @@
-########################################
-# IntelliJ IDEA
-########################################
+# IntelliJ
 .idea/
 *.iml
 *.iws
 *.ipr
 out/
 
-########################################
-# Eclipse
-########################################
-.classpath
-.project
-.settings/
-
-########################################
-# VS Code
-########################################
-.vscode/
-
-########################################
-# Maven (build temporal)
-########################################
+# Maven build temporal
 target/
 
-########################################
-# Logs
-########################################
-*.log
-
-########################################
-# Sistema operativo
-########################################
+# SO
 .DS_Store
 Thumbs.db
 
-########################################
-# Node / otros (por si acaso)
-########################################
-node_modules/
+# Logs
+*.log
 
-########################################
 # IMPORTANTE:
-# NO se ignoran los siguientes porque
-# se suben con Git LFS para la entrega:
-# - dist/
-# - installer/
-# - *.exe
-# - *.jar
-# - runtime/
-########################################
+# NO ignoramos dist/ ni installer/ porque la profesora quiere TODO en GitHub
+
