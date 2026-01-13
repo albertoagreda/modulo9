@@ -58,6 +58,12 @@ modulo9/
 ├─ pom.xml
 └─ mvnw
 ```
+## 📦 Instalación
+
+1. Descargar `installer/Modulo9-Setup.exe`
+2. Ejecutar el instalador
+3. Seguir el asistente
+4. Ejecutar la aplicación desde el acceso directo
 
 ---
 
